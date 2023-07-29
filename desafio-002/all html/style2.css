@@ -1,0 +1,21 @@
+body{
+    background-color: darkgoldenrod;
+
+}
+
+body{
+    background-color: darkgoldenrod;
+    height: 4000;
+
+}
+h1{
+    text-align: center;
+
+}
+.conteiner2{
+    background-color: darkgray;
+    width: 650px;
+    margin: 20px auto 0 auto;
+    padding: 15px;
+    
+}
